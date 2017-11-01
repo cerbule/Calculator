@@ -6,7 +6,7 @@
     android:id="@+id/activity_login"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.alin.profiler.createaccount.CreateAccountActivity">
+    tools:context="com.alin.profiler.login.LoginActivity">
 
     <FrameLayout
         android:id="@+id/cont_login_fragment"
